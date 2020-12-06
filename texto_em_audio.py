@@ -1,4 +1,5 @@
 #pinheirocfc@gmail.com
+#Instrucoes em https://youtu.be/BtwHAvsNaA8
 
 import pyttsx3 #pip instal pyttsx3
 
